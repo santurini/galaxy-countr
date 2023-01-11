@@ -42,8 +42,11 @@ For sake of curiosity this is the comparison between the model trained with the 
 
 ## References
 Original Paper: [CounTR: Transformer-based Generalised Visual Counting](https://arxiv.org/abs/2208.13721)
+
 Paper Repository: [Verg-Avesta/CounTR](https://github.com/Verg-Avesta/CounTR)
+
 Paper Project Site: [https://verg-avesta.github.io/CounTR_Webpage/](https://verg-avesta.github.io/CounTR_Webpage/)
+
 Galaxy Detection Paper: [Galaxy detection and identification using deep learning and data augmentation](https://arxiv.org/abs/1809.01691)
 
 <br />
