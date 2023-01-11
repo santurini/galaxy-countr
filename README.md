@@ -3,7 +3,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Lightning](https://img.shields.io/badge/lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white)
-![Albumentations](https://custom-icon-badges.demolab.com/badge/albumentations-FFFFFF?style=for-the-badge&logo=albumentations&logoColor=white)
+![Albumentations](https://custom-icon-badges.demolab.com/badge/albumentations-FFFFF0?style=for-the-badge&logo=albumentations&logoColor=white)
 
 In this project we wanted to test the ability of the [CounTR (Transformer-based Generalised Visual Counting)](https://github.com/Verg-Avesta/CounTR) on a newly created different dataset to see if the performance would've been great also with noisy images and on objects with a very small patch size.
 
