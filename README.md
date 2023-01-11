@@ -10,10 +10,18 @@ The dataset has been made publicy available on Kaggle at the following link: [Ga
 
 ## Training
 
-### Original Paper Pipeline ([link to the implementation](code/paper/README.md))
+### Original Paper Pipeline ([folder](code/paper/README.md))
 
 In the original paper the model is trained on augmented images (mixing, random cropping, blending) and tested by cropping the image and summing the counts on the individual patches. 
 
 Starting from the pretrained weights, performing image reconstruction, on DOTA and CARPK, the model was finetuned for 100 epochs on the Galaxy dataset.
 
-### Galaxy-CounTR
+### Galaxy-CounTR ([folder](code/Galaxy-CounTR/README.md))
+
+In the personalized pipeline has been used a different augmentation pipeline (random flip, color jittering, Random Noise) and were tested multiple loss functions and Learning rate Schedulers.
+
+The code has been fully re-implemented using PyLightning both for Training and Testing.
+
+## Results and Report
+
+All the results and observations have been reported in an exhaustive [report](Galaxy_CounTR.pdf) about the project 
