@@ -24,4 +24,9 @@ The code has been fully re-implemented using PyLightning both for Training and T
 
 ## Results and Report
 
-All the results and observations have been reported in an exhaustive [report](Galaxy_CounTR.pdf) about the project 
+All the results and observations have been reported in an exhaustive [report](Galaxy_CounTR.pdf) about the project, also the data preparation and ablation studies are reported in order to give a better understanding of the workflow.
+
+For sake of curiosity this is the comparison between the model trained with the original pipeline vs our implementation:
+
+![bad_prediction](https://user-images.githubusercontent.com/91251307/211838935-3f4b416b-b566-4853-8bcf-88007d003cca.png)
+![good_prediction](https://user-images.githubusercontent.com/91251307/211838955-08d0e552-7aa6-49dd-ae4e-9b05b9958323.png)
