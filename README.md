@@ -10,8 +10,6 @@ The dataset has been made publicy available on Kaggle at the following link: [Ga
 
 ![004224](https://user-images.githubusercontent.com/91251307/211839089-3a7eaf74-1c41-4a32-ac3d-a7056354c7bc.png)
 ![004223](https://user-images.githubusercontent.com/91251307/211839103-5ad1f822-638e-4455-914c-ee4ca8698e5a.png)
-![004222](https://user-images.githubusercontent.com/91251307/211839111-690ca0ff-8fd7-4485-8fdf-b18b4904226f.png)
-
 
 ## Training
 
