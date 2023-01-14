@@ -52,7 +52,7 @@ Galaxy Detection Paper: [Galaxy detection and identification using deep learning
 ## Team
 
 - **Arturo Ghinassi** | [LinkedIn](https://www.linkedin.com/in/arturo-ghinassi-50b8a0219/) | [GitHub](https://github.com/santurini)
-- **Valentino Sacco** | [LinkedIn](https://www.linkedin.com/in/valentino-sacco-61b84113b/) | [Github](https://github.com/s4b3)
+- **Valentino Sacco** | [LinkedIn](https://www.linkedin.com/in/valentino-sacco-61b84113b/) | [GitHub](https://github.com/s4b3)
 
 <br />
 <br />
