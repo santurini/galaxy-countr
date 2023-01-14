@@ -40,11 +40,6 @@ For sake of curiosity this is the comparison between the model trained with the 
 ![bad_prediction](https://user-images.githubusercontent.com/91251307/211838935-3f4b416b-b566-4853-8bcf-88007d003cca.png)
 ![good_prediction](https://user-images.githubusercontent.com/91251307/211838955-08d0e552-7aa6-49dd-ae4e-9b05b9958323.png)
 
-## Team
-
-- **Arturo Ghinassi** [LinkedIn](https://www.linkedin.com/in/arturo-ghinassi-50b8a0219/) [GitHub](https://github.com/santurini)
-- **Valentino Sacco** [LinkedIn](https://www.linkedin.com/in/valentino-sacco-61b84113b/) [Github](https://github.com/s4b3)
-
 ## References
 Original Paper: [CounTR: Transformer-based Generalised Visual Counting](https://arxiv.org/abs/2208.13721)
 
@@ -53,6 +48,11 @@ Paper Repository: [Verg-Avesta/CounTR](https://github.com/Verg-Avesta/CounTR)
 Paper Project Site: [https://verg-avesta.github.io/CounTR_Webpage/](https://verg-avesta.github.io/CounTR_Webpage/)
 
 Galaxy Detection Paper: [Galaxy detection and identification using deep learning and data augmentation](https://arxiv.org/abs/1809.01691)
+
+## Team
+
+- **Arturo Ghinassi** | [LinkedIn](https://www.linkedin.com/in/arturo-ghinassi-50b8a0219/) | [GitHub](https://github.com/santurini)
+- **Valentino Sacco** | [LinkedIn](https://www.linkedin.com/in/valentino-sacco-61b84113b/) | [Github](https://github.com/s4b3)
 
 <br />
 <br />
